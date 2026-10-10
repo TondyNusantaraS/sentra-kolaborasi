@@ -14,6 +14,9 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | docs/ | docs/panduan-instalasi | Dokumentasi |
 | chore/ | chore/rapikan-gitignore | Pemeliharaan |
 | hotfix/ | hotfix/gagal-start | Perbaikan mendesak |
-## Daftar Skrip
+## Daftar Skrip Tim Healthcheck
+<<<<<<< HEAD
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+=======
 - healthcheck.sh - memeriksa status layanan
+>>>>>>> origin/main
