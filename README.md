@@ -16,3 +16,4 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | hotfix/ | hotfix/gagal-start | Perbaikan mendesak |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+- monitoring.sh - memantau layanan secara berkala
