@@ -14,13 +14,11 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | docs/ | docs/panduan-instalasi | Dokumentasi |
 | chore/ | chore/rapikan-gitignore | Pemeliharaan |
 | hotfix/ | hotfix/gagal-start | Perbaikan mendesak |
-<<<<<<< HEAD
 ## Daftar Skrip Tim Monitoring
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
 - monitoring.sh - memantau layanan secara berkala
 - healthcheck.sh - memeriksa status layanan
 
-=======
 ## Daftar Skrip Tim Healthcheck
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
 - healthcheck.sh - memeriksa status layanan
