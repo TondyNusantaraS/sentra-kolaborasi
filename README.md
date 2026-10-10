@@ -1,0 +1,18 @@
+# Sentra Kolaborasi
+Repository bersama praktikum DevOps - Politeknik Negeri Batam.
+## Anggota Tim
+| Peran | Nama | Akun GitHub |
+|---|---|---|
+| Maintainer | Tondy Nusantara Siregar | @TondyNusantaraS |
+| Developer A | Herdi Aldo Daeli | @AldoDaeli |
+| Developer B | Ghanni Adryan Pratama | @GhanniAdryanPratama |
+## Konvensi Branch
+| Awalan | Contoh | Untuk |
+|---|---|---|
+| feat/ | feat/tambah-healthcheck | Fitur baru |
+| fix/ | fix/port-bentrok | Perbaikan kesalahan |
+| docs/ | docs/panduan-instalasi | Dokumentasi |
+| chore/ | chore/rapikan-gitignore | Pemeliharaan |
+| hotfix/ | hotfix/gagal-start | Perbaikan mendesak |
+## Daftar Skrip
+- setup.sh - menyiapkan lingkungan dan menjalankan smoke test
