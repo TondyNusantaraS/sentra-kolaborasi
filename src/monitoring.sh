@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+export SENTRA_ENV=dev
 INTERVAL="${1:-10}"
 URL="${2:-http://127.0.0.1:5000/health}"
 if ! [[ "$INTERVAL" =~ ^[0-9]+$ ]] || [ "$INTERVAL" -lt 1 ]; then
